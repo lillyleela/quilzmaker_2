@@ -182,7 +182,7 @@ User can register and login.
 
 ### Login page for user
 User can login and viw quiz making and taking.
-![Login Page](screenshots/login-homepage.jpg)
+![Login Page](screenshots/quizlisting.jpg)
 
 ---
 
