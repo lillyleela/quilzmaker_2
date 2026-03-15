@@ -105,7 +105,7 @@ quizmaker
 ## 1️⃣ Clone the Repository
 
 ```bash
-git clone https://github.com/your-username/quiz-maker.git
+git clone https://github.com/lilyleela/quizmaker
 cd quiz-maker
 ```
 
@@ -171,21 +171,32 @@ Example application screens.
 ### Home Page
 Displays available quizzes.
 
-![Home Page](screenshots/home.png)
+![Home Page](screenshots/home.jpg)
+
+---
+### Login page
+User can register and login.
+![Login Page](screenshots/login.jpg)
+
+---
+
+### Login page for user
+User can login and viw quiz making and taking.
+![Login Page](screenshots/login-homepage.jpg)
 
 ---
 
 ### Quiz Page
 User selects answers and navigates through questions.
 
-![Quiz Page](screenshots/quiz-page.png)
+![Quiz Page](screenshots/qquizlisting.jpg)
 
 ---
 
 ### Result Page
 Displays score, percentage, and pie chart.
 
-![Result Page](screenshots/result-page.png)
+![Result Page](screenshots/quizresults.jpg)
 
 ---
 
