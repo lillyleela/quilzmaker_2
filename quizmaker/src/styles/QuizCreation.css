@@ -1,0 +1,38 @@
+body {
+  background: linear-gradient(135deg, #eef2ff, #f8fafc);
+  min-height: 100vh;
+}
+
+.quiz-wrapper {
+  max-width: 900px;
+  margin: auto;
+}
+
+.quiz-card {
+  border-radius: 12px;
+  background: white;
+  box-shadow: 0 8px 20px rgba(0, 0, 0, 0.08);
+}
+
+.header-title {
+  font-weight: 700;
+  color: #2c3e50;
+}
+
+.add-btn {
+  background: #6366f1;
+  border: none;
+}
+
+.add-btn:hover {
+  background: #4f46e5;
+}
+
+.save-btn {
+  background: #0ea5e9;
+  border: none;
+}
+
+.save-btn:hover {
+  background: #0284c7;
+}
